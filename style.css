@@ -16,7 +16,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('img/greenhousegirl.jpg');
+    background-image: url('img/tempbackground1.jpg');
     min-height: 100%;
 }
 
@@ -28,7 +28,7 @@ body, html {
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("img/goldglitterbg.jpg");
+    background-image: url("img/plant.jpg");
     min-height: 400px;
 }
 
@@ -41,3 +41,8 @@ body, html {
         background-attachment: scroll;
     }
 }
+
+
+
+
+/* Brendas color #CA906B */
